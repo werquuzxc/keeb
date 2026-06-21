@@ -26,13 +26,13 @@ This repo documents the full build of my keyboard: schematic and PCB design in K
 ## Progress
 
 - [x] GitHub repo set up
-- [ ] - [x] Layout & parts planned
-- [ ] - [ ] PCB designed in KiCad
-- [ ] - [ ] Case designed in Onshape
-- [ ] - [ ] Firmware written and flashed
-- [ ] - [ ] Built, tested, and submitted
+- [x] Layout & parts planned
+- [ ] PCB designed in KiCad
+- [ ] Case designed in Onshape
+- [ ] Firmware written and flashed
+- [ ] Built, tested, and submitted
 
-- [ ] See `docs/roadmap.md` for the full timeline and `docs/build-log.md` for the day-by-day journal.
+See `docs/roadmap.md` for the full timeline and `docs/build-log.md` for the day-by-day journal.
 
 - [ ] ## Parts List
 
